@@ -1,4 +1,4 @@
-# Complete-Bioinformatics-Practical-Bootcamp-from-Zero-to-Hero
+# Complete Bioinformatics Practical Bootcamp from Zero to Hero
 
 [Access to Course](https://www.udemy.com/course/complete-bioinformatics-practical-bootcamp-from-zero-to-hero/)
 
