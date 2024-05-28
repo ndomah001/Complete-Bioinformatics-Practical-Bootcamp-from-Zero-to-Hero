@@ -8,16 +8,16 @@ Explore the bioinformatics world through **hands-on**, **practical demonstration
 
 Our course is designed to equip you with the fundamental skills needed for becoming a excellent computational data analyst. You'll delve into ten key modules:
 
-1. Biological Databases
-2. Sequence Alignment
-3. Genomic Bioinformatics
-4. Proteomic Bioinformatics
+1. Introduction to Bioinformatics
+2. Biological Databases
+3. Biological Sequence Alignment
+4. Genomics Bioinformatics
 5. Evolutionary Bioinformatics
-6. Structural Bioinformatics
-7. Command Line Bioinformatics (Linux for bioinformatics)
-8. Transcriptomics Bioinformatics
-9. R for Bioinformatics
-10. Microarray Analysis in R
+6. Proteomics Bioinformatics
+7. Structural Bioinformatics
+8. Command Line for Bioinformatics
+9. Transcriptomics Bioinformatics
+10. Final Project
 
 This unique blend of theory and practical application will empower you to handle biological data with confidence. **With 103 lectures, including practical tutorials, 10 assignments, and 11 quizzes and a final project for making your own bioinformatics pipeline for RNA-Seq data analysis on bash**, you'll gain a comprehensive understanding of bioinformatics tools and techniques.
 
