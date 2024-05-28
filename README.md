@@ -26,13 +26,13 @@ From biological databases to building your own pipeline for data analysis, you'l
 By the end of this course, you'll see biological data in a whole new light. We believe this investment in your education will be both valuable and rewarding. Don't miss out on this opportunity to transform your bioinformatics skills.
 
 **What you’ll learn**
-- Learn Basic Theory & Practical demonstration of Bioinformatics techniques on both command line and graphical user interface
-- Learn how to explore biological databases and retrieve data using databases and their tools
-- Learn how to align biological sequences using pairwise and multiple alignment method on both graphical user interface and command line interface
-- Learn how to perform genomics analysis like prediction of genes, genome annotation, Intron and exon analysis, gene location and gene enrichment using bioinforma
-- Learn how to perform evolutionary bioinformatics analysis also called phylogenetic analysis on both command line and graphical user interface
-- Learn to perform proteomics bioinformatics analysis like motifs and domain finding, protein physical parameters, protein-protein interaction, protein enrichment
-- Learn about structural bioinformatics where you will learn homology modeling on GUI and CLI platforms also you will be able to predict 3D structure of proteins
-- Learn how to use command line in bioinformatics how to linux subsystem in windows learn some basic use of bash, perform database searching analysis using NCBI E
-- Learn how to use transcriptomics data and for NGS and variant calling analysis
+- Basic Theory & Practical demonstration of Bioinformatics techniques on both command line and graphical user interface
+- How to explore biological databases and retrieve data using databases and their tools
+- How to align biological sequences using pairwise and multiple alignment method on both graphical user interface and command line interface
+- How to perform genomics analysis like prediction of genes, genome annotation, Intron and exon analysis, gene location and gene enrichment using bioinforma
+- How to perform evolutionary bioinformatics analysis also called phylogenetic analysis on both command line and graphical user interface
+- How to perform proteomics bioinformatics analysis like motifs and domain finding, protein physical parameters, protein-protein interaction, protein enrichment
+- Structural bioinformatics where you will learn homology modeling on GUI and CLI platforms also you will be able to predict 3D structure of proteins
+- How to use command line in bioinformatics how to linux subsystem in windows learn some basic use of bash, perform database searching analysis using NCBI E
+- How to use transcriptomics data and for NGS and variant calling analysis
 - Build your very own pipeline for RNA-Seq and variant calling analysis by using Linux
